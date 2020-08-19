@@ -6,3 +6,32 @@
     right: 0px;
     top: 0px;
 }
+
+.centered_img, .sites_img {
+    text-align: center;
+    -webkit-box-shadow: 9px 7px 5px rgba(50, 50, 50, 0.37);
+    -moz-box-shadow:    9px 7px 5px rgba(50, 50, 50, 0.37);
+    box-shadow:         9px 7px 5px rgba(50, 50, 50, 0.37);
+}
+
+.sites_img {
+    width: 250px;
+    height: 150px;
+    float: left;
+}
+
+
+.align_image {
+    text-align: center;
+}
+
+#div_img {
+    padding: 10pm;
+}
+
+#component_img {
+    width: 300px;
+    height: 80px;  
+    float: left;
+    padding: 3px; 
+}
